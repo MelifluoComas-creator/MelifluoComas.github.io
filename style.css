@@ -1,4 +1,4 @@
 .size{
-  
-  height: 640px; 
+  max-height: 640px !important; 
+  filter: grayscale(15%);
 }
