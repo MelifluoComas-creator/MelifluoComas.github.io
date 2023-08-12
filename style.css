@@ -1,4 +1,5 @@
-.size{
+.imgsize{
   max-height: 640px !important; 
   filter: grayscale(25%);
+  object-fit: cover;
 }
